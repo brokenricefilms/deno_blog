@@ -4,9 +4,11 @@ publish_date: 2021-10-11
 tags: [math]
 ---
 
-- Khi tui muốn gõ mấy cái ký tự của toán thì phải lên mạng search cái ký tự của nó rồi copy paste lại giống như ^2 = ²
-- Bí một chỗ nữa là mấy cái ký tự toán thường ngày viết trên giấy okay, nhưng khi gõ trên máy tính thì méo biến tên của nó là gì thường mấy cái unicode của toán thì phải search tiếng anh mới ra, mà tui mới biết mấy cái tên cơ bản thư alpha symbol -> α, β, lấy ví dụ như mấy cái symbol như sum: ∑ rồi ℝ thì hên xui lúc nhớ lúc không
-- Nói về cá nhân tui thì sợ viết trên giấy lém, tui được mọi người ca ngợi là sỡ hữu chữ viết bác sĩ, viết giống thư pháp các thể loại 😁, nên tui thường note trên laptop, phone là chính còn giấy dùng khi nào tui phải suy nghĩ cái vấn đề nào đó cần phải tái hiện cái suy nghĩ của tui.
+Khi tui muốn gõ mấy cái ký tự của toán thì phải lên mạng search cái ký tự của nó rồi copy paste lại giống như ^2 = ²
+
+Bí một chỗ nữa là mấy cái ký tự toán thường ngày viết trên giấy okay, nhưng khi gõ trên máy tính thì méo biến tên của nó là gì thường mấy cái unicode của toán thì phải search tiếng anh mới ra, mà tui mới biết mấy cái tên cơ bản thư alpha symbol -> α, β, lấy ví dụ như mấy cái symbol như sum: ∑ rồi ℝ thì hên xui lúc nhớ lúc không
+
+Nói về cá nhân tui thì sợ viết trên giấy lém, tui được mọi người ca ngợi là sỡ hữu chữ viết bác sĩ, viết giống thư pháp các thể loại 😁, nên tui thường note trên laptop, phone là chính còn giấy dùng khi nào tui phải suy nghĩ cái vấn đề nào đó cần phải tái hiện cái suy nghĩ của tui.
 
 **⇒ Okay đến lúc giải quyết vấn đề**
 
