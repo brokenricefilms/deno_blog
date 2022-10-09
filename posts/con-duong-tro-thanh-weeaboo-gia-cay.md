@@ -1,6 +1,6 @@
 ---
 title: Chặng hành trình chở thành weeaboo giả cày
-publish_date: 2021-2-8
+publish_date: 2021-02-08
 tags: [anime]
 ---
 

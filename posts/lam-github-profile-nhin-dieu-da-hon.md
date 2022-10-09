@@ -1,6 +1,6 @@
 ---
 title: Làm github profile nhìn điệu đà hơn.
-publish_date: 2020-9-26
+publish_date: 2020-09-26
 tags: [github]
 ---
 

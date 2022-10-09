@@ -1,6 +1,6 @@
 ---
 title: stuDarkTheme released v0.1-beta
-publish_date: 2020-11-3
+publish_date: 2020-11-03
 tags: [project]
 ---
 

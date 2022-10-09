@@ -1,6 +1,6 @@
 ---
 title: Linux có gì vui?
-publish_date: 2020-10-3
+publish_date: 2020-10-03
 tags: [linux]
 ---
 

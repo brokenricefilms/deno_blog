@@ -1,6 +1,6 @@
 ---
 title: tại sao light theme mới là chân ái?
-publish_date: 2022-5-22
+publish_date: 2022-05-22
 tags: [heathy]
 ---
 

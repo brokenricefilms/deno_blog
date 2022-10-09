@@ -1,6 +1,6 @@
 ---
 title: mem.ai một cái note app mà mình muốn trả phí
-publish_date: 2022-5-22
+publish_date: 2022-05-22
 tags: [productive, note-taking]
 ---
 

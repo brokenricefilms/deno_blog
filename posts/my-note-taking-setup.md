@@ -1,6 +1,6 @@
 ---
 title: my note-taking setup
-publish_date: 2022-5-17
+publish_date: 2022-05-17
 tags: [heathy]
 ---
 

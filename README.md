@@ -2,4 +2,4 @@
 deno task dev
 ```
 
-live demo: https://thuanpham2311-blog.deno.dev/
+live demo: https://thuanpham-blog.deno.dev/

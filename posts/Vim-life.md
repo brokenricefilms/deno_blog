@@ -1,6 +1,6 @@
 ---
 title: Vim life
-publish_date: 2020-11-5
+publish_date: 2020-11-05
 tags: [vim]
 ---
 
