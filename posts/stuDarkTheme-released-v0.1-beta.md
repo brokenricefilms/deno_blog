@@ -4,7 +4,8 @@ publish_date: 2020-11-03
 tags: [project]
 ---
 
-**Link: [https://github.com/dsc-stu/stuDarkTheme/](https://github.com/dsc-stu/stuDarkTheme/)**
+**Link:
+[https://github.com/dsc-stu/stuDarkTheme/](https://github.com/dsc-stu/stuDarkTheme/)**
 
 Chụy bảy sau 2 ngày tu luyện,
 
@@ -24,4 +25,7 @@ Mọi thông tin khác đọc readme của project nha👍
 
 **DISCLAIMER**
 
-Những câu chuyện, bài học và lời khuyên của tui là những trải nghiệm riêng của cá nhân, không phản ánh ý kiến từ những tổ chức hay công ty nào. Đa phần lời tui viết là chém gió, nên mấy chế nên suy ngẩm nó có phù hợp với hoàn cảnh của bản thân không nha.
+Những câu chuyện, bài học và lời khuyên của tui là những trải nghiệm riêng của
+cá nhân, không phản ánh ý kiến từ những tổ chức hay công ty nào. Đa phần lời tui
+viết là chém gió, nên mấy chế nên suy ngẩm nó có phù hợp với hoàn cảnh của bản
+thân không nha.

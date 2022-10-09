@@ -28,7 +28,10 @@ Từ đó học và vận dụng triết học giúp cuộc sống ta vui hơn.
 
 ### **CHỦ NGHĨA KHẮC KỈ LÀ CÁI MÉO GÌ?**
 
-Chủ nghĩa khắc kỷ là một trường phái triết học Hy Lạp cổ đại do Zeno thành Citium sáng lập ra tại Athens vào đầu thế kỷ thứ 3 TCN, là một nhánh triết học về đạo đức con người, thứ được tạo ra bằng logic và cách mà con người nhìn nhận bản chất thế giới. —wikipedia
+Chủ nghĩa khắc kỷ là một trường phái triết học Hy Lạp cổ đại do Zeno thành
+Citium sáng lập ra tại Athens vào đầu thế kỷ thứ 3 TCN, là một nhánh triết học
+về đạo đức con người, thứ được tạo ra bằng logic và cách mà con người nhìn nhận
+bản chất thế giới. —wikipedia
 
 Tóm cái vấy lại là một phong cách sống giúp bạn bình an, tịnh tâm.
 
@@ -40,7 +43,7 @@ Tui sẽ moi ra phần tui thấy hay nhất trong chủ nghĩa khắc kỉ,
 
 Nói chung sẽ chia ra làm ba hướng nhìn nhận:
 
-**1.** **Việc chúng ta không thể kiểm soát được**
+**1.** **Việc chúng ta không thể kiểm soát được**
 
 Một ông nghiện code với tinh thần tịnh tâm và được truyền đạo bởi chụy bảy thuận
 
@@ -114,16 +117,22 @@ Clean code thần công
 
 Với cách chúng ta nhìn nhận vấn đề
 
-Các nhà chủ nghĩa khắc kỉ chuyền lại giúp chúng ta biết được việc nào chúng ta **kiểm soát hoàng toàn**, việc nào **kiểm soát được một phần** và việc chúng ta **không khiểm soát được.**
+Các nhà chủ nghĩa khắc kỉ chuyền lại giúp chúng ta biết được việc nào chúng
+ta **kiểm soát hoàng toàn**, việc nào **kiểm soát được một phần** và việc chúng
+ta **không khiểm soát được.**
 
 Từ đó chúng ta có thể **tập chung vào những điều ta có thể kiểm soát được**
 
 Cách này không chỉ giúp các anh em tịnh tâm khi code,
 
-Mà khi anh em áp dụng trong cuộc sống sẽ giúp anh em thấy cuộc đời bình an, vui hơn.
+Mà khi anh em áp dụng trong cuộc sống sẽ giúp anh em thấy cuộc đời bình an, vui
+hơn.
 
 ---
 
 **DISCLAIMER**
 
-Những câu chuyện, bài học và lời khuyên của tui là những trải nghiệm riêng của cá nhân, không phản ánh ý kiến từ những tổ chức hay công ty nào. Đa phần lời tui viết là chém gió, nên mấy chế nên suy ngẩm nó có phù hợp với hoàn cảnh của bản thân không nha.
+Những câu chuyện, bài học và lời khuyên của tui là những trải nghiệm riêng của
+cá nhân, không phản ánh ý kiến từ những tổ chức hay công ty nào. Đa phần lời tui
+viết là chém gió, nên mấy chế nên suy ngẩm nó có phù hợp với hoàn cảnh của bản
+thân không nha.

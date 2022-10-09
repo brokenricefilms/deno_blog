@@ -6,7 +6,8 @@ tags: [productive]
 
 ## **BẠN CÓ PHẢI LÀ MỘT CON NGHIỆN?**
 
-> Nghiện là sự lặp lại liên tục của một hành vi bất chấp hậu quả xấu hoặc sự rối loạn thần kinh để dẫn đến những hành vi như vậy. — wikipedia.com
+> Nghiện là sự lặp lại liên tục của một hành vi bất chấp hậu quả xấu hoặc sự rối
+> loạn thần kinh để dẫn đến những hành vi như vậy. — wikipedia.com
 
 Nói đơn giản là bạn code từ sáng sớm đến chiều tà
 
@@ -18,7 +19,8 @@ Chào mừng bạn đến động của những con nghiện code 😆
 
 ## **VẬY LÀM SAO ĐỂ TRỞ THÀNH MỘT CON NGHIỆN CODE LÀNH MẠNH?**
 
-> Để code trâu bò được thì phải có sức khỏe giống như con trâu bò. — Chụy bảy Thuận
+> Để code trâu bò được thì phải có sức khỏe giống như con trâu bò. — Chụy bảy
+> Thuận
 
 Sức khỏe thường liên quan tới những thói quen, hoạt động hàng ngày của mấy chế.
 
@@ -46,9 +48,11 @@ Cũng là một dịp tốt để thực thành lối sống chay tịnh 😅
 
 ## **POMODORO**
 
-Nói chung bạn tập trung code trong một khoảng thời gian rồi đi lòng vùng giản gân cốt
+Nói chung bạn tập trung code trong một khoảng thời gian rồi đi lòng vùng giản
+gân cốt
 
-Có nhiều khiểu pomodoro nhưng cách og là bạn làm việc trong 25 phút rồi nghỉ 5 phút.
+Có nhiều khiểu pomodoro nhưng cách og là bạn làm việc trong 25 phút rồi nghỉ 5
+phút.
 
 Thực hiện trong 4 chu kì rồi nghỉ bao lâu theo ý bạn.
 
@@ -80,12 +84,18 @@ Nói chung ông tác giả này làm trong google,
 
 Mấy ông nhân viên chắc burn out nên ông này mở ra khóa thiền.
 
-_Đó là một số cách mà tui thấy ok, còn nhiều cách khác nữa mấy chế tự research nha._
+_Đó là một số cách mà tui thấy ok, còn nhiều cách khác nữa mấy chế tự research
+nha._
 
-**Tóm lại:** Tự nhận là một con nghiện code nhưng nội công còn cùi mía, sức khỏe và tinh thần cũng không được ổn lắm, hi vọng cùng được đồng hành cùng anh chị em tìm kiếm con đường trở thành con nghiện code lành mạnh.
+**Tóm lại:** Tự nhận là một con nghiện code nhưng nội công còn cùi mía, sức khỏe
+và tinh thần cũng không được ổn lắm, hi vọng cùng được đồng hành cùng anh chị em
+tìm kiếm con đường trở thành con nghiện code lành mạnh.
 
 ---
 
 **DISCLAIMER**
 
-Những câu chuyện, bài học và lời khuyên của tui là những trải nghiệm riêng của cá nhân, không phản ánh ý kiến từ những tổ chức hay công ty nào. Đa phần lời tui viết là chém gió, nên mấy chế nên suy ngẩm nó có phù hợp với hoàn cảnh của bản thân không nha.
+Những câu chuyện, bài học và lời khuyên của tui là những trải nghiệm riêng của
+cá nhân, không phản ánh ý kiến từ những tổ chức hay công ty nào. Đa phần lời tui
+viết là chém gió, nên mấy chế nên suy ngẩm nó có phù hợp với hoàn cảnh của bản
+thân không nha.
