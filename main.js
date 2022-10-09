@@ -11,7 +11,8 @@ blog({
     { title: "GitHub", url: "https://github.com/thuanpham2311" },
     { title: "Links", url: "https://bio.link/thuanpham2311" },
   ],
+  dateFormat: (date) =>
+    new Intl.DateTimeFormat("en-GB", { dateStyle: "long" }).format(date),
   lang: "en",
-  dateStyle: "long",
   middlewares: [ga("G-4V1R393JHN")],
 });
