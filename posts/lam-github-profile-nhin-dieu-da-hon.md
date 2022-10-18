@@ -15,7 +15,7 @@ Tha hồ mà custom cái github profile của mình (trước đây chỉ pin đ
 repository, với mấy cái activity này nọ).
 
 Anh em có thể xem thử cái github profile của tui
-https://github.com/thuanpham2311
+https://github.com/thuanOwa
 
 Tui thấy nghịch cũng vui nên giới thiệu cho các sư huynh.
 

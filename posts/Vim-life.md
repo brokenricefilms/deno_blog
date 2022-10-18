@@ -43,7 +43,7 @@ một công cụ từ thiên đường gửi đến cho các bạn. 👍
 30s quảng cáo: nếu bạn tò mò mình config vim, đúng hơn là neovim ra sau thì vào
 link phía bên dưới nha.😆
 
-https://github.com/thuanpham2311/dotfiles
+https://github.com/thuanOwa/dotfiles
 
 ---
 

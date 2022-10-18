@@ -65,7 +65,7 @@ tui để để dàm đạo hỉ.
 
 **Reference**
 
-- Thông tin về tui: <https://bio.link/thuanpham2311>
+- Thông tin về tui: <https://bio.link/thuanOwa>
 
 **DISCLAIMER**
 
@@ -80,4 +80,4 @@ thân không nha.
 [^3]:
 https://github.com/emacsmirror/xah-math-input/blob/master/xah-math-input.el
 [^4]: http://xahlee.info/M/index.html [^5]:
-https://github.com/thuanpham2311/ibus-bamboo-math
+https://github.com/thuanOwa/ibus-bamboo-math

@@ -96,9 +96,9 @@ Chém gió tới đây, thì đã hết mưa rùi, Bye bye mấy chế.
 **Ref:**
 
 - Github của tui:
-  [http://github.com/thuanpham2311](http://github.com/thuanpham2311)
+  [http://github.com/thuanOwa](http://github.com/thuanOwa)
 - Đọc thêm mấy cái xàm xí của tui:
-  [https://thuanpham2311.github.io](https://thuanpham2311.github.io)
+  [https://thuanOwa.github.io](https://thuanOwa.github.io)
 
 ---
 

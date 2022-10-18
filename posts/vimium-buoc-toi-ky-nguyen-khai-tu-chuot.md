@@ -50,7 +50,7 @@ xem vimium help của nó cho nó tiện.
 2. Vimium có khả năng tùy biến khá là cao, anh em có thể remap lại key custom
    theme các thể loại.30s quảng cáo: tui thích làm mấy cái fancy nên tui custom
    luôn cho em nó một bộ dark theme, anh em có thể ghé qua cái github repository
-   của tui xem thử nha.https://github.com/thuanpham2311/vimium_dark_theme
+   của tui xem thử nha.https://github.com/thuanOwa/vimium_dark_theme
 3. Trở nên cool gầu hơn: cũng giống như vim, anh em sài bàn phím gõ liên tục mà
    không sài chuột thì sẽ giống với mấy cảnh trong mấy phim hacker các thể loại.
 

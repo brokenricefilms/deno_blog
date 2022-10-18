@@ -40,7 +40,7 @@ tags: [linux]
   hay ho hơn khi xài cái git gốc, fzf (mấy chế config các thể loại lại một chút
   lại là okay), starship prompt (làm cho cái prompt của anh em nó fancy hơn).
 - anh em nào thích xem tui config các thể loại thì vô repo dotfiles tui coi thử:
-  <https://github.com/thuanpham2311/dotfiles>
+  <https://github.com/thuanOwa/dotfiles>
 
 **VIMer Philosophy**
 

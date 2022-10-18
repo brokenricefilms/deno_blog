@@ -46,7 +46,7 @@ mai que Github.
 Ngày 29 tháng 7 năm 2019 là lần push code đầu tiêu của tui lên github, tính ra
 tới bây giờ 18 tháng 9 năm 2021 thì ra cái ngày mà mấy bạn độc trên cái title.
 
-Mấy đồng chí có thể vô cái github của tui <https://github.com/thuanpham2311> để
+Mấy đồng chí có thể vô cái github của tui <https://github.com/thuanOwa> để
 check cái graph xanh lè ở bên dưới, sẻ biết được ngày kỷ niệm giữ tui với bé
 mèo.
 
@@ -89,7 +89,7 @@ và tui có thể tự tin nói mình đã để lại dấu răng ở trên cá
 
 **Reference**
 
-- Thông tin về tui: <https://bio.link/thuanpham2311>
+- Thông tin về tui: <https://bio.link/thuanOwa>
 
 ---
 
