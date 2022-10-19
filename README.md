@@ -2,4 +2,4 @@
 deno task dev
 ```
 
-live demo: https://tpb.deno.dev/
+live demo: blog.thuanowa.com
