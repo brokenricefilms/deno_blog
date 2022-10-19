@@ -4,10 +4,10 @@ blog({
   author: "Thuan Pham",
   title: "Thuan Pham",
   description: "Random nerd (Front-end Developer/Creator)",
-  avatar: "avata.jpeg",
+  avatar: "profile_picture.png",
   avatarClass: "rounded-full",
   links: [
-    { title: "Email", url: "mailto:phamtanthuan2311@gmail.com" },
+    { title: "Email", url: "mailto:thuanowa@gmail.com" },
     { title: "GitHub", url: "https://github.com/thuanOwa" },
     { title: "Links", url: "https://bio.link/thuanOwa" },
   ],
