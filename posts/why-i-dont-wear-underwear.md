@@ -45,12 +45,6 @@ i think that enough reason for my decide -> don’t wear the faking underwear.
 
 ---
 
-- Latest update of the blog:
-  <https://thuanOwa.notion.site/why-i-don-t-wear-underwear-61a70022e6d84afb9e35cb5011e90373>
-- My notes: <https://thuanOwa.github.io/l/note>
 - All my links: <https://bio.link/thuanOwa>
-- when i write English i know this will be fakup, but i lazy to edit. Hopefully
-  you know what i writing. enjoy!
-
-DISCLAIMER: My stories, lessons, and advice are my personal experience, not
-reflecting opinions from any organization or company
+- DISCLAIMER: My stories, lessons, and advice are my personal experience, not
+  reflecting opinions from any organization or company
