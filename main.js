@@ -3,7 +3,7 @@ import blog, { ga } from "https://deno.land/x/blog@0.5.0/blog.tsx";
 blog({
   author: "Thuan Pham",
   title: "Thuan Pham",
-  description: "Random nerd (Front-end Developer/Creator)",
+  description: "thuanowa blog, thuanowa, front-end dev",
   avatar: "profile_picture.png",
   avatarClass: "rounded-full",
   links: [
