@@ -4,12 +4,16 @@ publish_date: 2022-05-17
 tags: [heathy]
 ---
 
-## mem.ai (new)
+## mind map (currently)
+
+- youtube search: justin sung
+
+## mem.ai
 
 - link to the blog:
   <https://thuanOwa.github.io/posts/mem-ai-mot-cai-note-app-ma-minh-muon-tra-phi/>
 
-## Notion (old)
+## Notion
 
 - Use notion page of course (not indexing to search engine like google, cuz i’m
   poor)
