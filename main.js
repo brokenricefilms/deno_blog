@@ -3,7 +3,7 @@ import blog, { ga, redirects } from "https://deno.land/x/blog/blog.tsx";
 blog({
   author: "Thuan Pham",
   title: "Thuan Pham",
-  description: "Yo! I'm a random nerd, front-end dev, and creator,...",
+  description: "Yo! I was born on Nov 23, 2001 in Ho Chi Minh City and in the process of making the internet more beautiful and blazingly fast.",
   avatar: "profile_picture.png",
   avatarClass: "rounded-full",
   links: [
